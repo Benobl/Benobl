@@ -115,10 +115,10 @@
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://t.me/nebil_abdo">
+  <a href="https://t.me/nebilzone">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/nebilabdo">
+  <a href="https://www.linkedin.com/in/nebilzone">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>&nbsp;
   <a href="https://www.instagram.com/nobleabdo">

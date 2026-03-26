@@ -1,34 +1,4 @@
-[<h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
-
-<p align="center">
-  <b>💻 Passionate Developer | 🚀 MERN Stack Learner | 🤝 Open to Collaboration</b>
-</p>
-
----
-
-<h2 align="center">Hi 👋, I'm Nebil</h2>
-
-<p align="center">
-  🚀 I love building modern web apps <br/>
-  🎯 Focused on becoming a Full-Stack MERN Developer <br/>
-  🤝 Always ready to collaborate
-</p>
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Front-End
-- HTML5 • CSS3 • JavaScript  
-- React.js • Tailwind CSS  
-
-### ⚙️ Back-End
-- Node.js • Express.js • MongoDB  
-
-### 🧰 Tools
-- Git • GitHub • VS Code  
-
----](https://camo.githubusercontent.com/7d66a80ca948616db784d176800aa85ebc2ccca7ba123161ead6ca3a553c2fe9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6162693535362673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6974733d74727565        the above is working so make my own to it please <h1 align="center">
+ <h1 align="center">
   🌟 Welcome to My GitHub Profile! 🌟
 </h1>
 
@@ -137,8 +107,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benobl&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benobl&theme=radical" />
-</p>
+
 
 ---
 <h3 align="center">🌐 Connect With Me</h3>

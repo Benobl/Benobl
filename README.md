@@ -98,15 +98,14 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Benobl&show_icons=true&theme=radical&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Benobl&theme=radical&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benobl&layout=compact&theme=radical&hide_border=true" />
 </p>
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Benobl&theme=radical&hide_border=true" />
+</p>
+
+
 
 
 ---
@@ -141,7 +140,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" height="350" alt="Coding GIF">
-</p>)
+</p>
 
 
 
